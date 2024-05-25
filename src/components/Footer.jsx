@@ -6,7 +6,7 @@ const Footer = () => {
             <div className="py-5 ">
                 <h1 className="display-5 fw-bold text-white">Tandem</h1>
                 <div className="col-lg-6 mx-auto">
-                    <p className="fs-5 mb-4">This site demonstates the working of a GPS data processing into a map visualization using react-leaflet and made as a part of intern hiring for Tandem at National Institute of Technology Karnataka, Surathkal</p>
+                    <p className="fs-5 mb-4">This site demonstates the working of GPS data processing into a map visualization using react-leaflet and made as a part of intern hiring for Tandem at National Institute of Technology Karnataka, Surathkal</p>
                     <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
                         <a href={brandSitePath}>
                         <button type="button" className="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold">Visit Tandem</button>
